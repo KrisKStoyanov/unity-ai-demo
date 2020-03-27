@@ -1,2 +1,2 @@
 # unity-ai-demo
-University AI Game Demo
+University AI Demo - Top-down Action Game Prototype
